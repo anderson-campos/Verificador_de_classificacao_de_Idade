@@ -5,16 +5,15 @@
 <ul>
   <li>O programa solicita que o usuário insira sua idade.</li>
   <li>Com base na idade informada, o programa classifica o usuário em uma das seguintes categorias:
-  
-      <ul>
-        <li>Criança</li>
-        <li>Adolescente</li>
-        <li>Jovem</li>
-        <li>Adulto</li>
-        <li>Idoso</li>
-      </ul>
-      
-    </li>
+    
+  <ul>
+    <li>Criança</li>
+    <li>Adolescente</li>
+    <li>Jovem</li>
+    <li>Adulto</li>
+    <li>Idoso</li>
+  </ul>
+  </li>
 
   <li>A classificação é exibida diretamente na tela.</li>
 </ul>
